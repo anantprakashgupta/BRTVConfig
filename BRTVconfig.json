@@ -1,7 +1,7 @@
 
 [
   {
-    "bannerADStatus": "true",
-    "interstitialAdStatus" : "true"
+    "bannerADStatus": true,
+    "interstitialAdStatus" : true
   }
 ]
