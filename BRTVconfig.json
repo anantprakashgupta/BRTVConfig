@@ -3,6 +3,6 @@
   {
     "bannerADStatus": true,
     "interstitialAdStatus" : true,
-    "ServerIp" : "192.168.1.10"
+    "ServerIp" : "192.168.79.42"
   }
 ]
