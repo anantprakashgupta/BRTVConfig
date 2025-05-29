@@ -1,8 +1,8 @@
 
 [
   {
-    "bannerADStatus": true,
-    "interstitialAdStatus" : true,
+    "bannerADStatus": false,
+    "interstitialAdStatus" : false,
     "ServerIp" : "192.168.1.10"
   }
 ]
