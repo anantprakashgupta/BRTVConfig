@@ -5,6 +5,6 @@
     "interstitialAdStatus" : false,
     "ServerIp" : "192.168.1.10",
     "NewFeutures" : "Please update to get the latest features and bug fixes",
-    "updateAvailable" : "1.2"
+    "updateAvailable" : "1.1"
   }
 ]
