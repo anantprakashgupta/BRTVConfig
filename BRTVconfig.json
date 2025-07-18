@@ -8,7 +8,7 @@
     "updateAvailable" : "1.3"
   },
    {
-    "notification": false,
+    "notification": true,
     "MessageNotify" : "Welcome to My App, Enjoy Now!"
   }
 ]
