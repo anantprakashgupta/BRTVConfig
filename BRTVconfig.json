@@ -8,7 +8,7 @@
     "updateAvailable" : "1.3"
   },
    {
-    "notification": true,
+    "notification": false,
     "MessageNotify" : "🙏 Welcome To Mehfil Music"
   }
 ]
