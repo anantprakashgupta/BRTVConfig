@@ -8,7 +8,7 @@
     "updateAvailable" : "1.4"
   },
    {
-    "notification": true,
+    "notification": false,
     "MessageNotify" : "🙏 New Channels Added, Chek Now!"
   }
 ]
