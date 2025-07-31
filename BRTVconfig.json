@@ -3,7 +3,7 @@
   {
     "bannerADStatus": false,
     "interstitialAdStatus" : false,
-    "ServerIp" : "172.17.218.42",
+    "ServerIp" : "192.168.1.10",
     "NewFeutures" : "Please update to get the latest features and bug fixes",
     "updateAvailable" : "1.4"
   },
